@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Santhosh M, a passionate Full Stack Java Developer.  <br>🎓 Pursuing B.Tech in IT with hands-on experience in frontend and backend technologies.  <br>🛠️ Skilled in Java, Python, HTML, CSS, JavaScript, and data forecasting projects.  <br>🌱 Always learning, building, and exploring new opportunities to grow in tech.<br>
+👋 Hi, I’m Santhosh M, a passionate Full Stack Java Developer.  <br>🎓 I Completed B.Tech in IT with hands-on experience in frontend and backend technologies.  <br>🛠️ Skilled in Java, Python, HTML, CSS, JavaScript, and data forecasting projects.  <br>🌱 Always learning, building, and exploring new opportunities to grow in tech.<br>
 
 
 ## 🌐 Socials:
